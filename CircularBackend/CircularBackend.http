@@ -1,0 +1,6 @@
+@CircularBackend_HostAddress = http://localhost:5093
+
+GET {{CircularBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
