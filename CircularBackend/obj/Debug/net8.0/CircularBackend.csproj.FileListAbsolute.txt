@@ -167,7 +167,6 @@ C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\obj\Debug\net8.0\static
 C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\obj\Debug\net8.0\Circular.4B69A11B.Up2Date
 C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\obj\Debug\net8.0\CircularBackend.dll
 C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\obj\Debug\net8.0\refint\CircularBackend.dll
@@ -175,3 +174,4 @@ C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\obj\Debug\net8.0\Circul
 C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\obj\Debug\net8.0\CircularBackend.genruntimeconfig.cache
 C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\obj\Debug\net8.0\ref\CircularBackend.dll
 C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\obj\Debug\net8.0\CircularBackend.sourcelink.json

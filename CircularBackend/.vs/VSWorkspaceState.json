@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Controllers"
+    "\\Controllers",
+    "\\Services"
   ],
   "SelectedNode": "\\CircularBackend.sln",
   "PreviewInSolutionExplorer": false

@@ -5,6 +5,7 @@ import { useState } from "react";
 import { ArrowLeft, School, Mail, Lock, User, ShieldCheck, NotebookTabs } from "lucide-react";
 import api from "@/api/api";
 import { useRouter } from "next/navigation";
+import { NextResponse } from "next/server";
 
 export default function LoginForm() {
     const [isLoading, setIsLoading] = useState(false);
@@ -26,17 +27,30 @@ export default function LoginForm() {
                 Password: password
             });
 
+            console.log("Login Response:", response.data);
+
             if (response.status === 200) {
-                router.push("/dashboard"); 
-                // window.location.href = "/auth/login"; 
+                const role = response.data.role;
+                console.log("User Role:", role);
+                if(role === 'Campus')
+                {
+                    window.location.href = '/campus';
+                }
+                if(role === 'Student')
+                {
+                    window.location.href = '/student';
+                }
+                setIsLoading(false);
+
             }
         } catch (error: any) {
-            console.error("Registration Error:", error.response?.data || error.message);
+            console.error("Login Error:", error.response?.data || error.message);
             alert(error.response?.data?.message || "Network Error: Is the backend running?");
-        } finally {
-            setIsLoading(false); // Spinner stops exactly when request ends
+            setIsLoading(false);
         }
+        // Don't set loading to false here - let the redirect happen
     };
+
     return (
         <div className="min-h-screen bg-white flex flex-col justify-center items-center px-6 py-12">
             {/* Back Button */}
@@ -63,14 +77,11 @@ export default function LoginForm() {
                 {/* Form */}
                 <form onSubmit={handleSubmit} className="space-y-4">
                     <div className="space-y-4">
-                      
-                       
-
                         {/* University Email */}
                         <div className="relative">
                             <Mail className="absolute left-4 top-3.5 w-5 h-5 text-zinc-400" />
                             <input
-                                type="email"
+                                type="text"
                                 placeholder="Credential Email or PRN"
                                 required
                                 value={cred}
@@ -84,7 +95,7 @@ export default function LoginForm() {
                             <Lock className="absolute left-4 top-3.5 w-5 h-5 text-zinc-400" />
                             <input
                                 type="password"
-                                placeholder="Create Password"
+                                placeholder="Enter Password"
                                 required
                                 value={password}
                                 onChange={e => setPassword(e.target.value)}
@@ -111,7 +122,7 @@ export default function LoginForm() {
 
                 <p className="text-center text-sm text-zinc-500">
                     create an account?{" "}
-                    <Link href="/auth/register_campus" className="text-green-600 font-semibold hover:underline">
+                    <Link href="/auth/register-campus" className="text-green-600 font-semibold hover:underline">
                         Register
                     </Link>
                 </p>

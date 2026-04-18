@@ -95,7 +95,8 @@ namespace CircularBackend.Services
                 return new LoginTokensResponseDto
                 {
                     AccessToken = accessToken,
-                    RefreshToken = refreshToken
+                    RefreshToken = refreshToken,
+                    Role = "Campus"
                 };
             }
             else
@@ -115,24 +116,35 @@ namespace CircularBackend.Services
                 user.RefreshToken = refreshToken;
                 user.RefreshTokenExpiryTime = DateTime.Now.AddDays(7);
 
+                await context.SaveChangesAsync();
+
                 return new LoginTokensResponseDto
                 {
                     AccessToken = accessToken,
-                    RefreshToken = refreshToken
+                    RefreshToken = refreshToken,
+                    Role = "Student"
                 };
             }
         }
         public async Task<string> RefreshTokenAsync(string refreshToken)
         {
-            IUserEntity? user = (IUserEntity?)await context.Campuses.FirstOrDefaultAsync(u => u.RefreshToken == refreshToken)
-                     ?? (IUserEntity?)await context.Students.FirstOrDefaultAsync(u => u.RefreshToken == refreshToken);
+            if (string.IsNullOrEmpty(refreshToken)) return null;
 
-            if (user == null || user.RefreshTokenExpiryTime <= DateTime.Now)
-            {
-                return null;
-            }
-            return GenerateAccessToken(user.Id.ToString(), user.Role , user.CampusCode.ToString());
+            // Check Campus table
+            var campus = await context.Campuses.FirstOrDefaultAsync(u => u.RefreshToken == refreshToken);
+            if (campus != null) return ProcessUser(campus);
 
+            // Check Student table
+            var student = await context.Students.FirstOrDefaultAsync(u => u.RefreshToken == refreshToken);
+            if (student != null) return ProcessUser(student);
+
+            return null;
+        }
+
+        private string ProcessUser(IUserEntity user)
+        {
+            if (user.RefreshTokenExpiryTime <= DateTime.UtcNow) return null;
+            return GenerateAccessToken(user.Id.ToString(), user.Role, user.CampusCode.ToString());
         }
 
         private string PasswordHasher(string password)
