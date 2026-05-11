@@ -68,6 +68,43 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CircularBackend.Controllers.CampusController",
+    "Method": "DeleteStudentById",
+    "RelativePath": "api/v1/Campus/delete_student/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CircularBackend.Controllers.CampusController",
+    "Method": "GetStudentsByCampus",
+    "RelativePath": "api/v1/Campus/students/{campusCode}/{page}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "campusCode",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CircularBackend.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

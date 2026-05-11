@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CircularBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fa7d9502e73a6af16e7e061f7ab90a03997ccbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0a62827ca87ee25b9cd805921f11f7efb3e1cbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("CircularBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CircularBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

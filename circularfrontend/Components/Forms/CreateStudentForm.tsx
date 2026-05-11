@@ -40,7 +40,7 @@ export default function CreateStudentForm() {
 
         const code = await fetchCampusCode();        
 
-        console.log("Campus Code:", code);
+        // console.log("Campus Code:", code);
 
         setIsLoading(true);
         try {

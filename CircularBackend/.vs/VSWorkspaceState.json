@@ -3,6 +3,7 @@
     "",
     "\\Controllers",
     "\\Models",
+    "\\Models\\Dtos",
     "\\Models\\Entities",
     "\\Services"
   ],
