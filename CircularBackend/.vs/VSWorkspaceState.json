@@ -2,6 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Controllers",
+    "\\Models",
+    "\\Models\\Entities",
     "\\Services"
   ],
   "SelectedNode": "\\CircularBackend.sln",

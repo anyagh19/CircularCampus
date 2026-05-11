@@ -3,52 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\models\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:models\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Migrations\\20260415083024_campusIdadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260415083024_campusIdadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Dtos\\LoginTokensResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Dtos\\LoginTokensResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\models\\dtos\\logintokensresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:models\\dtos\\logintokensresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Services\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Dtos\\LoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Dtos\\LoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Entities\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Entities\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\models\\entities\\campus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:models\\entities\\campus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Entities\\Campus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Entities\\Campus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\models\\dtos\\campusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:models\\dtos\\campusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Dtos\\CampusDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Dtos\\CampusDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Dtos\\StudentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Dtos\\StudentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,43 +67,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAmwFQAAAAAAAAAAAAAAA==",
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "Models\\Entities\\Student.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T19:28:38.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAuwIQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T19:26:04.235Z",
+              "WhenOpened": "2026-04-13T19:06:41.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Services\\AuthService.cs",
               "RelativeToolTip": "Services\\AuthService.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAH8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwEEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T12:15:33.592Z"
+              "WhenOpened": "2026-04-14T12:15:33.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Dtos\\StudentDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Dtos\\StudentDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\StudentDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:14:28.799Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T19:28:38.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T19:26:04.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "LoginTokensResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Dtos\\LoginTokensResponseDto.cs",
               "RelativeDocumentMoniker": "Models\\Dtos\\LoginTokensResponseDto.cs",
@@ -115,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Services\\IAuthService.cs",
               "RelativeDocumentMoniker": "Services\\IAuthService.cs",
@@ -127,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Dtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "Models\\Dtos\\LoginDto.cs",
@@ -139,19 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "Models\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Entities\\Student.cs",
-              "RelativeToolTip": "Models\\Entities\\Student.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T19:06:41.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Campus.cs",
               "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Entities\\Campus.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Campus.cs",
@@ -163,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "20260415083024_campusIdadded.cs",
               "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Migrations\\20260415083024_campusIdadded.cs",
               "RelativeDocumentMoniker": "Migrations\\20260415083024_campusIdadded.cs",
@@ -175,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CampusDto.cs",
               "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Dtos\\CampusDto.cs",
               "RelativeDocumentMoniker": "Models\\Dtos\\CampusDto.cs",
@@ -184,18 +198,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T19:21:57.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StudentDto.cs",
-              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Dtos\\StudentDto.cs",
-              "RelativeDocumentMoniker": "Models\\Dtos\\StudentDto.cs",
-              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Dtos\\StudentDto.cs",
-              "RelativeToolTip": "Models\\Dtos\\StudentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T21:14:28.799Z"
             },
             {
               "$type": "Document",

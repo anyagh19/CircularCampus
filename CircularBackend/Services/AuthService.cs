@@ -60,6 +60,10 @@ namespace CircularBackend.Services
                 Name = request.Name,
                 Password = PasswordHasher(request.Password),
                 CampusCode = request.CampusCode,
+                Department = request.Department,
+                Year = request.Year,
+                Email = request.Email,
+                PhoneNumber = request.PhoneNumber,
                 Role = "Student",
                 Campus = campus
             };
