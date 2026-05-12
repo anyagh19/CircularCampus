@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CircularBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0a62827ca87ee25b9cd805921f11f7efb3e1cbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cda0d1d3dc60af646c3402e80fcee1f3274a0e1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CircularBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CircularBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

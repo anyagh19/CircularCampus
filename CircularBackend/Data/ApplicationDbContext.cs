@@ -13,5 +13,6 @@ namespace CircularBackend.Data
         //Tables are added here
         public DbSet<Campus> Campuses { get; set; }
         public DbSet<Student> Students { get; set; }
+        public DbSet<Product> Products { get; set; }
     }
 }

@@ -22,14 +22,10 @@ namespace CircularBackend.Models.Entities
         public string ProductCategory { get; set; }
 
         [Required]
-        public decimal ProductPrice { get; set; }
+        public int ProductPrice { get; set; }
 
         [Required]
         public int CampusCode { get; set; }
-
-        [ForeignKey("CampusId")]
-        public Campus campus { get; set; }
-        public int campusId { get; set; }
 
         [Required]
         public int StudentId { get; set; }

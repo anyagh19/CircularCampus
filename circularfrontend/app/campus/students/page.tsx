@@ -56,29 +56,27 @@ const page = () => {
     fetchCampusCode();
   }, []);
 
-  // 2. Debounce the search term (wait 300ms after user stops typing)
   useEffect(() => {
     const timer = setTimeout(() => {
       setDebouncedSearch(searchTerm);
-      setCurrentPage(1); // reset to page 1 on new search
+      setCurrentPage(1);
     }, 300);
     return () => clearTimeout(timer);
   }, [searchTerm]);
 
-  // 3. Fetch students – depends on campusCode, currentPage, and debouncedSearch
+
   const fetchStudents = useCallback(async () => {
     if (!campusCode) return;
     setLoading(true);
     try {
-      // Backend route: api/v1/Campus/students/{campusCode}/{page}
-      // If you later support a search query param, add `?search=${debouncedSearch}`
+
       const response = await api.get(
         `/Campus/students/${campusCode}/${currentPage}`
       );
       const data = response.data;
       setStudents(data.students);
       setTotalPages(data.totalPages);
-      // data.currentPage is also available if needed, but we already store it locally
+
     } catch (error) {
       console.error('Error fetching students:', error);
     } finally {

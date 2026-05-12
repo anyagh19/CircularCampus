@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\models\\dtos\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:models\\dtos\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\models\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:models\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|c:\\users\\amark\\onedrive\\desktop\\circular\\circularbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08FEA8-FEE4-4931-B584-6EDC3467353D}|CircularBackend.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +58,132 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T16:13:20.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:05:25.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:56:46.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:05:58.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDtos.cs",
+              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Dtos\\ProductDtos.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\ProductDtos.cs",
+              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Dtos\\ProductDtos.cs",
+              "RelativeToolTip": "Models\\Dtos\\ProductDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:55:07.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Product.cs",
               "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Entities\\Product.cs",
               "RelativeToolTip": "Models\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T14:24:43.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:57:04.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Dtos\\StudentDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Dtos\\StudentDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:42:52.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "Models\\Entities\\Student.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwC0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:06:40.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\amark\\OneDrive\\Desktop\\Circular\\CircularBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:01:07.095Z",
               "EditorCaption": ""
             }
           ]

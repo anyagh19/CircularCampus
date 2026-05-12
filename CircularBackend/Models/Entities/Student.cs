@@ -43,5 +43,7 @@ namespace CircularBackend.Models.Entities
         [ForeignKey("CampusId")]
         public Campus Campus { get; set; }
 
+        public ICollection<Product> Products { get; set; } = new List<Product>();
+
     }
 }

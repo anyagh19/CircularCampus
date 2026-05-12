@@ -105,6 +105,62 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CircularBackend.Controllers.ProductController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/v1/Product/create_product/{CampusCode}/{StudentId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ProductName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ProductDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ProductImage",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "ProductCategory",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ProductPrice",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "CampusCode",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "StudentId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "CampusCode",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "StudentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CircularBackend.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

@@ -176,3 +176,5 @@ C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\obj\Debug\net8.0\ref\Ci
 C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\obj\Debug\net8.0\CircularBackend.sourcelink.json
 C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\amark\OneDrive\Desktop\Circular\CircularBackend\bin\Debug\net8.0\Newtonsoft.Json.dll

@@ -177,6 +177,97 @@
         }
       }
     },
+    "/api/v1/Product/create_product/{CampusCode}/{StudentId}": {
+      "post": {
+        "tags": [
+          "Product"
+        ],
+        "parameters": [
+          {
+            "name": "CampusCode",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "StudentId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "ProductName": {
+                    "type": "string"
+                  },
+                  "ProductDescription": {
+                    "type": "string"
+                  },
+                  "ProductImage": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "ProductCategory": {
+                    "type": "string"
+                  },
+                  "ProductPrice": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "CampusCode": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "StudentId": {
+                    "type": "integer",
+                    "format": "int32"
+                  }
+                }
+              },
+              "encoding": {
+                "ProductName": {
+                  "style": "form"
+                },
+                "ProductDescription": {
+                  "style": "form"
+                },
+                "ProductImage": {
+                  "style": "form"
+                },
+                "ProductCategory": {
+                  "style": "form"
+                },
+                "ProductPrice": {
+                  "style": "form"
+                },
+                "CampusCode": {
+                  "style": "form"
+                },
+                "StudentId": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
